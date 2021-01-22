@@ -47,6 +47,7 @@ bq_Aquaris X2_Aquaris X2_Not Working;Nov 22, 2019
 Xiaomi_Mi A3_Mi A3_Not Working;Dec 5, 2019
 Nokia_TA-1012_Nokia 8_Not Working;Dec 12, 2019
 Nokia_Nokia 7.1_Nokia 7.1_Not Working;Dec 16, 2019
+HMD Global_Nokia 5.3_Nokia 5.3_Not Working;Jan 22, 2021
 LGE_LM-G820_LG G8 ThinQ\xe2\x84\xa2_Not Working;Dec 26, 2019
 Sony_G8142_Xperia XZ Premium_Not Working;Jan 1, 2020
 Sony_Xperia Z2 Tablet WiFi_Xperia Z2 Tablet WiFi_Working;Mar 29, 2020
